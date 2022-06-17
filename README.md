@@ -1,7 +1,8 @@
-# OptiDrip
+![afbeelding_2022-06-17_215156600](https://user-images.githubusercontent.com/104650421/174392545-1fbf7059-9abb-42ef-ae28-e1fd7ba5a58f.png)
 
 
-- Improving Your Optifine settings 💪
+
+
 
 
 
