@@ -1,7 +1,7 @@
 # OptiDrip
 
 
-- Improving Ping and giving a huge FPS Boost 💪
+- Improving Your Optifine settings 💪
 
 
 
